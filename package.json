@@ -1,0 +1,23 @@
+{
+  "name": "ygopro-score-uploader",
+  "version": "1.0.0",
+  "description": "A script uploading scores to Challonge.",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuzurisa/ygopro-score-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuzurisa/ygopro-score-uploader/issues"
+  },
+  "homepage": "https://github.com/Yuzurisa/ygopro-score-uploader#readme",
+  "dependencies": {
+    "challonge": "^2.2.0",
+    "load-json-file": "^5.2.0"
+  }
+}
